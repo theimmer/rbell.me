@@ -1,4 +1,4 @@
-baseURL = "https://rbell.me"
+baseURL = "http://rbell.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Robert Bell"
