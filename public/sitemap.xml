@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rbell.me/readme/</loc>
+    <loc>https://rbell.me/readme/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rbell.me/about/</loc>
+    <loc>https://rbell.me/about/</loc>
   </url>
   
   <url>
-    <loc>http://rbell.me/</loc>
+    <loc>https://rbell.me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rbell.me/tags/</loc>
+    <loc>https://rbell.me/tags/</loc>
     <priority>0</priority>
   </url>
   
