@@ -3,31 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rbell.me/posts/example-1/</loc>
-    <lastmod>2019-08-10T15:25:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rbell.me/posts/</loc>
-    <lastmod>2019-08-10T15:25:43-04:00</lastmod>
+    <loc>http://rbell.me/readme/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rbell.me/</loc>
-    <lastmod>2019-08-10T15:25:43-04:00</lastmod>
+    <loc>http://rbell.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rbell.me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rbell.me/tags/</loc>
-    <lastmod>2019-08-10T15:25:43-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rbell.me/tags/untagged/</loc>
-    <lastmod>2019-08-10T15:25:43-04:00</lastmod>
+    <loc>http://rbell.me/tags/</loc>
     <priority>0</priority>
   </url>
   
