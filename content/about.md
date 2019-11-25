@@ -5,6 +5,7 @@ title: "About"
 
 # Welcome to my site
 
-Blogging in spaaaaaaace.
+My name is Robert Bell and I'm a cloud infrastructure enthusiast with a keen interest in immutability, infrastructure as code, and security. 
 
-Thanks!
+I also like podcasts, watches, speculative fiction, and anime.
+
