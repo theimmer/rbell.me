@@ -1,5 +1,3 @@
-# Welcome to my site
+# rbell.me
 
-Repository for my personal blog. This site uses the site engine Hugo with the Hermit theme. Blogging in spaaaaaaace.
-
-Thanks!
+This is the repository for my personal site. I look forward to seeing where this goes. Enjoy.
